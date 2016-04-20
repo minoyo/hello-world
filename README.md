@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Learning how to use GitHub trough the "Hello World" tutorial.
+Learning how to use GitHub through the "Hello World" tutorial.
